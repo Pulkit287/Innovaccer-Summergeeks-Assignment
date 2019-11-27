@@ -58,15 +58,19 @@ I have made **3 collections** so as to **reduce redundancy** in the database. Ev
 * A visitor cannot checkout again if he/she is already been checked out.
 
 ## Screenshots
-
+Entry Management System's Home Page
 ![Entry Management System's Home Page]()
 
+Check-in Portal
 ![Check-in Portal](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Checkin.png?raw=true)
 
+Check-in Success Message
 ![Check-in Success Message]()
 
+Check-out Portal
 ![Check-out Portal]()
 
+Check-out Success Message
 ![Check-out Success Message]()
 
 Error Messages
@@ -75,17 +79,22 @@ Error Messages
 ![]()
 
 Collections:
-
+Clients
 ![Clients]()
 
+Hosts
 ![Hosts]()
 
+Visits
 ![Visits]()
 
+E-mail & Message sent
 ![E-mail & Message sent]()
 
+E-mail received at host's end after check-in
 ![E-mail received at host's end after check-in]()
 
+E-mail received at visitor's end after check-out
 ![E-mail received at visitor's end after check-out]()
 
 
