@@ -61,7 +61,7 @@ var mailOptions = {
       console.log('Email sent: ' + info.response);
     }
  });    
-
+ 
 }  
 
 //SchemaSetUp - Made 3 Schemas namely: 'Clients','Hosts' and 'Visits' to reduce redundancy and repetition of visitor details and host details.
