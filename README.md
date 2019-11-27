@@ -61,7 +61,7 @@ I have made **3 collections** so as to **reduce redundancy** in the database. Ev
 
 ![Entry Management System's Home Page]()
 
-![Check-in Portal]()
+![Check-in Portal](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Checkin.png?raw=true)
 
 ![Check-in Success Message]()
 
