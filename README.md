@@ -35,14 +35,14 @@ The Visitor is asked to enter his/her E-mail Id for verification and after it th
         |___phone
 ```
 * **Hosts:** Contains details specific to the hosts.
-```console
+```bash
 |___Hosts
        |___hname
        |___hemail 
        |___hphone
 ```
 * **Visits:** Contains details specific to the visits by visitors(Check-in - Check-out).
-```console
+```bash
 |___Visits
        |___email
        |___checkin
@@ -104,7 +104,7 @@ npm install
 app.js
 `` -
 
-```console
+```bash
 Add Email account for sending E-mail via node-mailer for example
 
 user: 'ENTER E-MAIL ID',                                
@@ -112,11 +112,11 @@ pass: 'ENTER YOUR PASSWORD'
 ```
 and ``from`` variable in ``sndMail() function`` in ``app.js`` used to send mails-
 
-```console
+```bash
 from: 'ENTER E-MAIL ID'
 ```
 finally, update your ``FAST2SMS API authorization key`` in ``app.js`` in ``sndMsg()`` function for sending sms through fast2sms.
-```console
+```bash
 Add details for sending message's via 'Fast2sms' API for example
 
 "authorization": "ENTER YOUR AUTHORIZATION KEY" 
