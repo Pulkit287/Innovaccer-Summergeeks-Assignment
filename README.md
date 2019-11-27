@@ -59,43 +59,43 @@ I have made **3 collections** so as to **reduce redundancy** in the database. Ev
 
 ## Screenshots
 Entry Management System's Home Page
-![Entry Management System's Home Page]()
+![Entry Management System's Home Page](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Home.png)
 
-Check-in Portal
+**Check-in Portal**
 ![Check-in Portal](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Checkin.png?raw=true)
 
-Check-in Success Message
-![Check-in Success Message]()
+**Check-in Success Message**
+![Check-in Success Message](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Success_checkin.png)
 
-Check-out Portal
-![Check-out Portal]()
+**Check-out Portal**
+![Check-out Portal](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Checkout.png)
 
-Check-out Success Message
-![Check-out Success Message]()
+**Check-out Success Message**
+![Check-out Success Message](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Success_checkout.png)
 
-Error Messages
-![]()
-![]()
-![]()
+**Error Messages**
+![](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Error1.png)
+![](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Error2.png)
+![](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Error3.png)
 
-Collections:
-Clients
-![Clients]()
+**Collections:**
+``Clients``
+![Clients](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/clients.png)
 
-Hosts
-![Hosts]()
+``Hosts``
+![Hosts](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/hosts.png)
 
-Visits
-![Visits]()
+``Visits``
+![Visits](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/visits.png)
 
-E-mail & Message sent
-![E-mail & Message sent]()
+**E-mail & Message sent**
+![E-mail & Message sent](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/email_msg_success.png)
 
-E-mail received at host's end after check-in
-![E-mail received at host's end after check-in]()
+**E-mail received at host's end after check-in**
+![E-mail received at host's end after check-in](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/email1.png)
 
-E-mail received at visitor's end after check-out
-![E-mail received at visitor's end after check-out]()
+**E-mail received at visitor's end after check-out**
+![E-mail received at visitor's end after check-out](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/email2.png)
 
 
 ## Installation
@@ -131,11 +131,11 @@ Add details for sending message's via 'Fast2sms' API for example
 "authorization": "ENTER YOUR AUTHORIZATION KEY" 
 ```
 5. Run ``mongod`` in seperate terminal and ``node app.js`` in seperate terminal with the project.
-6. Then go to [localhost:3000](localhost:3000).
+6. Then go to [localhost:3000](localhost:3000) .
 
 ## Author
 
-Name: Pulkit Mathur
+Name: **Pulkit Mathur**
 
 E-mail ID: [17ucs116@lnmiit.ac.in](mailto:17ucs116@lnmiit.ac.in)
 
