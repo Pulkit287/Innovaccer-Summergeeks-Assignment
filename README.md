@@ -28,7 +28,7 @@ The Visitor is asked to enter his/her E-mail Id for verification and after it th
 
 **Database 'user'** and it's **Collections** are designed as following:
 * **Clients:** Contains details specific to the visitors.
-```console
+```bash
 |___Clients
         |___name 
         |___email
