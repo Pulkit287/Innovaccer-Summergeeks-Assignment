@@ -58,7 +58,7 @@ I have made **3 collections** so as to **reduce redundancy** in the database. Ev
 * A visitor cannot checkout again if he/she is already been checked out.
 
 ## Screenshots
-Entry Management System's Home Page
+**Entry Management System's Home Page**
 ![Entry Management System's Home Page](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/Home.png)
 
 **Check-in Portal**
@@ -89,6 +89,7 @@ Entry Management System's Home Page
 ![Visits](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/visits.png)
 
 **E-mail & Message sent**
+
 ![E-mail & Message sent](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/email_msg_success.png)
 
 **E-mail received at host's end after check-in**
