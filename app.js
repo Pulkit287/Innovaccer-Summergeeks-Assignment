@@ -28,7 +28,7 @@ var transporter = nodemailer.createTransport({
     req.headers({
     "authorization": "ENTER YOUR AUTHORIZATION KEY"
     });
-                
+                 
     req.form({
     "sender_id": "FSTSMS",
     "message": content,
