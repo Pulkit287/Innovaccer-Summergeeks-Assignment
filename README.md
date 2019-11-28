@@ -112,8 +112,7 @@ git clone https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment.git
 cd Innovaccer-Summergeeks-Assignment
 npm install
 ```
-4. Then you'll have to update the email user and password in ``
-app.js (don't forget to turn on ``less secure app`` in security options of your mail account)
+4. Then you'll have to update the email user and password in ``app.js`` (don't forget to turn on ``less secure app`` in security options of your mail account)
 `` -
 
 ```
