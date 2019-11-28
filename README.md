@@ -92,7 +92,9 @@ I have made **3 collections** so as to **reduce redundancy** in the database. Ev
 
 ![E-mail & Message sent](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/email_msg_success.png)
 
-**E-mail received at host's end after check-in**
+**E-mail and Message received at host's end after check-in**
+![]((https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/msg.jpg)
+
 ![E-mail received at host's end after check-in](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/email1.png)
 
 **E-mail received at visitor's end after check-out**
@@ -127,7 +129,7 @@ from: 'ENTER E-MAIL ID'
 ```
 finally, update your ``FAST2SMS API authorization key`` in ``app.js`` in ``sndMsg()`` function for sending sms through fast2sms.
 ```
-Add details for sending message's via 'Fast2sms' API for example
+Add details for sending message's via Fast2sms API for example
 
 "authorization": "ENTER YOUR AUTHORIZATION KEY" 
 ```
