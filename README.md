@@ -113,7 +113,7 @@ cd Innovaccer-Summergeeks-Assignment
 npm install
 ```
 4. Then you'll have to update the email user and password in ``
-app.js
+app.js (don't forget to turn on ``less secure app`` in security options of your mail account)
 `` -
 
 ```
@@ -122,7 +122,7 @@ Add Email account for sending E-mail via node-mailer for example
 user: 'ENTER E-MAIL ID',                                
 pass: 'ENTER YOUR PASSWORD'
 ```
-and ``from`` variable in ``sndMail() function`` in ``app.js`` used to send mails-
+and ``from`` variable in ``sndMail()`` function in ``app.js`` used to send mails-
 
 ```
 from: 'ENTER E-MAIL ID'
