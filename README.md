@@ -93,7 +93,7 @@ I have made **3 collections** so as to **reduce redundancy** in the database. Ev
 ![E-mail & Message sent](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/email_msg_success.png)
 
 **E-mail and Message received at host's end after check-in**
-![]((https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/msg.jpg)
+<img src="https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/msg.jpg" width="500" />
 
 ![E-mail received at host's end after check-in](https://github.com/Pulkit287/Innovaccer-Summergeeks-Assignment/blob/master/Screenshots/email1.png)
 
