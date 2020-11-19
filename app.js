@@ -4,6 +4,10 @@ var express =   require("express"),
    mongoose =   require("mongoose"),
  nodemailer = require("nodemailer"),
     unirest = require("unirest");
+
+const path = require("path");
+app.use(express.static(path.join(__dirname, "client/build")));
+
 var flag1=-1;
 var flag2=-1;
 
